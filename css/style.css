@@ -1,5 +1,6 @@
 body{
     background-color: orangered;
+    color: black;
 
 }
 header{
@@ -33,7 +34,6 @@ nav{
 }
 nav img{
     width: 40px;
-    color: rgb(0, 0, 0);
     margin: 0;
 
 }
@@ -60,14 +60,12 @@ li{
     box-shadow: -5px 3px rgb(134, 14, 231);
     padding: 8px 10px ;
 }
- section p{
+section p{
     text-align: center;
-    color: black ;
     font-family: 'Orbitron', sans-serif;
-    text-shadow:10px 10px 20px rgb(134, 13, 231) ;
+    text-shadow:10px 10px 20px black ;
 }
 footer{
-    color: rgb(0, 0, 0);
     margin: 30px auto;
     font-family: 'Orbitron', sans-serif;
     text-align: center;
